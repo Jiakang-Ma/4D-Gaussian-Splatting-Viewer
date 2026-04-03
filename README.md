@@ -22,9 +22,9 @@ This is a lightweight and feature-rich Gaussian Splatting Viewer built with PyOp
 
 ## 📸 Visualizations
 
-| Velocity Heatmap | Interactive Gaussian Inspection |
-| :---: | :---: |
-| ![Heatmap](assets/Heatmap.png) | *[Add Inspection Screenshot Here]* |
+| Velocity Heatmap |
+| :---: |
+| ![Heatmap](assets/Heatmap.png) |
 
 *(Note: Use `G` to toggle gradient heatmaps and the 4D Panel to switch between Velocity, Duration, and Opacity modes.)*
 
