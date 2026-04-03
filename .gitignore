@@ -1,0 +1,12 @@
+__pycache__
+*.png
+!teaser.png
+!Heatmap.png
+!setting.png
+*.npz
+*.ini
+*.dump
+_example.py
+text.py
+toy_cuda_gs.py
+.vscode
